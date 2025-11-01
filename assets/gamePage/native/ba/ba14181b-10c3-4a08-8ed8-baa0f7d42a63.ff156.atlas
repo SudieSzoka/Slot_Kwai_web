@@ -1,0 +1,76 @@
+
+jishu.png
+size: 157,45
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+turbo_vfx_0000_13
+  rotate: false
+  xy: 110, 1
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+turbo_vfx_0001_12
+  rotate: false
+  xy: 93, 0
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+turbo_vfx_0002_11
+  rotate: false
+  xy: 114, 17
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+turbo_vfx_0003_10
+  rotate: true
+  xy: 129, 4
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+turbo_vfx_0004_9
+  rotate: true
+  xy: 129, 19
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+turbo_vfx_0005_8
+  rotate: false
+  xy: 93, 13
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+turbo_vfx_0006_7
+  rotate: false
+  xy: 70, 8
+  size: 11, 37
+  orig: 11, 37
+  offset: 0, 0
+  index: -1
+turbo_vfx_0007_6
+  rotate: true
+  xy: 83, 9
+  size: 36, 8
+  orig: 36, 8
+  offset: 0, 0
+  index: -1
+turbo_vfx_0008_5
+  rotate: false
+  xy: 0, 3
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+turbo_vfx_0012_1
+  rotate: false
+  xy: 36, 3
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
